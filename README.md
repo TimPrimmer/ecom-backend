@@ -39,4 +39,5 @@ For whatever reason the main challenge for me was creating the associations, it 
 ## Video
 
 [Video walkthrough link - Part 1](https://drive.google.com/file/d/1iwLykoHKCxLI8qojEve83bTcgTPAgXxy/view)
+
 [Video walkthrough link - Part 2](https://drive.google.com/file/d/17QCdwatg3nOJt57uvnUrE9sY6QvKbbnM/view)
